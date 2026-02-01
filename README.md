@@ -1,39 +1,49 @@
 ---
 layout: home
-title: Just the Class
+title: Deep Learning, Machine Learning und Künstliche Intelligenz
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Deep Learning, Machine Learning und Künstliche Intelligenz
 ---
 
-# Just the Class
+# Deep Learning, Machine Learning und Künstliche Intelligenz
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Wahlpflichtfach an der Technischen Hochschule Köln
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+## Learning Outcomes
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+Die Studierenden können Machine Learning (inkl. Deep Learning) Projekte praktisch in Python umsetzen, indem sie:
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+- **Unscharfe Zielstellungen aus der Praxis als Machine Learning Problemstellungen formulieren können**
 
-## Getting Started
+- **Daten in Python importieren, visualisieren, analysieren und vorverarbeiten können** unter Nutzung von Standardbibliotheken wie pandas, seaborn, matplotlib
 
-Getting started with Just the Class is simple.
+- **Abschätzen können, ob mit den gegebenen Daten die Zielstellung erreicht werden kann** oder mehr/andere Daten benötigt werden
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+- **Entscheiden können welche Methoden aus dem Bereich des Maschinellen Lernens, Deep Learnings, der KI prinzipiell geeignet sein könnten** und eine konkrete Methode für die Daten und Problemstellung auswählen
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+- **Konzepte verstehen und umsetzen mit denen tiefe neuronale Netze (Deep Learning) effizient trainiert werden**
 
-### Local development environment
+- **Sich in die gewählte Methode unter Nutzung von Fachliteratur einlesen**, diese in einer Google Colab Python Umgebung unter Nutzung von Standardbibliotheken wie scikit-learn und keras programmieren, trainieren, validieren und testen können
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+- **Die mit verschiedenen Modellen erzielten Ergebnisse visualisieren und vergleichen** (bspw. durch Nutzung von TensorBoard und weights & biases) und Strategien anwenden können, um die erzielten Ergebnisse systematisch zu verbessern (bspw. durch Hyperparameteroptimierung wie https://optuna.org/)
+
+- **Die Ergebnisse bewerten und analysieren können** und Entscheidungsträgern die Ergebnisse präsentieren können
+
+Diese Kompetenzen befähigen die Studierenden dazu, später Machine Learning/Deep Learning Projekte selbstständig zu formulieren und umsetzen zu können.
+
+## Über diesen Kurs
+
+Dieser Kurs nutzt das [Just the Class](https://github.com/kevinlin1/just-the-class) Template, welches auf dem beliebten [Just the Docs](https://github.com/just-the-docs/just-the-docs) Theme basiert.
+
+### Erste Schritte
+
+1. Schauen Sie sich den [Zeitplan](calendar.md) an, um einen Überblick über die Kursinhalte zu erhalten
+2. Besuchen Sie die [Ankündigungen](announcements.md) für aktuelle Informationen
+3. Informieren Sie sich über das [Team](staff.md)
+
+## Kontakt
+
+Weitere Informationen finden Sie auf der offiziellen Website der Technischen Hochschule Köln.
