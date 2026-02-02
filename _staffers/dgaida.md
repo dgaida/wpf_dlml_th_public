@@ -1,7 +1,7 @@
 ---
-name: Kevin Lin
+name: Daniel Gaida
 role: Instructor
-email: me@example.com
+email: daniel.gaida@th-koeln.de
 website: https://kevinl.info
 photo: kevin.jpg
 meta:
