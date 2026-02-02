@@ -1,23 +1,7 @@
 ---
-title: Introduction to Java
+title: Woche 1 - Überblick & Organisation & mehr
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
-
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+22.04.
+: **Vorlesung**{: .label .label-purple }[Überblick & Organisation, KI im täglichen Leben](#)
+  : Raum 0.503, 9:00-11:00
