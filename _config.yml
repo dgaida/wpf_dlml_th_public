@@ -19,7 +19,7 @@ description: Wahlpflichtfach für praktische Machine Learning und Deep Learning 
 author: Prof. Dr. Daniel Gaida, TH Köln
 baseurl: '/wpf_dlml_th_public' 
 url: 'https://dgaida.github.io' 
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README_TEMPLATE.md"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README_TEMPLATE.md", "vendor"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.12.0
