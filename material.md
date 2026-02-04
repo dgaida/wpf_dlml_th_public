@@ -26,3 +26,8 @@ Massive Open Online Courses.
 
 - [Strategy for DL Troubleshooting - Summer School der Uni Berkeley, 2021](https://fullstackdeeplearning.com/spring2021/lecture-7/)
 - [How LLMs Actually Generate Text (Every Dev Should Know This)](https://www.youtube.com/watch?v=NKnZYvZA7w4)
+
+## Tools
+
+- <https://www.tensorflow.org/>
+- <https://pytorch.org/>
