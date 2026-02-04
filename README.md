@@ -40,9 +40,22 @@ Dieser Kurs nutzt das [Just the Class](https://github.com/kevinlin1/just-the-cla
 
 ### Erste Schritte
 
-1. Schauen Sie sich den [Zeitplan](calendar.md) an, um einen Überblick über die Kursinhalte zu erhalten
+1. Schauen Sie sich den [Zeitplan](vorlesungen-uebungen.md) an, um einen Überblick über die Kursinhalte zu erhalten
 2. Besuchen Sie die [Ankündigungen](announcements.md) für aktuelle Informationen
 3. Informieren Sie sich über das [Team](staff.md)
+
+## 📅 Vorlesungstermine
+
+Den aktuellen Zeitplan können Sie als Kalender-Datei herunterladen und in Ihre Kalender-Anwendung importieren:
+
+[📥 Zeitplan als ICS-Datei herunterladen](assets/wpf_dlml_zeitplan.ics)
+
+Die ICS-Datei ist kompatibel mit:
+- Google Calendar
+- Outlook
+- Apple Calendar
+- Thunderbird
+- und den meisten anderen Kalender-Anwendungen
 
 ## Kontakt
 
