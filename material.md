@@ -28,6 +28,7 @@ Massive Open Online Courses.
 - [How LLMs Actually Generate Text (Every Dev Should Know This)](https://www.youtube.com/watch?v=NKnZYvZA7w4)
 - [Youtube Channel von Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
 - [Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [Official code repository for the book Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
 - [Stanford CS336 Language Modeling from Scratch I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 
 ## Tools
