@@ -30,6 +30,7 @@ Massive Open Online Courses.
 - [Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - [Official code repository for the book Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
 - [Stanford CS336 Language Modeling from Scratch I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- <https://www.stateof.ai/>
 
 ## Tools
 
