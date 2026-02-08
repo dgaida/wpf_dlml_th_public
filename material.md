@@ -21,6 +21,8 @@ Massive Open Online Courses.
 
 - <https://www.deeplearning.ai/courses/>
 - <https://www.coursera.org/specializations/deep-learning>
+- <https://www.datacamp.com/>
+- <https://www.edx.org/>
 
 ## Webseiten
 
