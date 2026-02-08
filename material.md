@@ -36,8 +36,10 @@ Massive Open Online Courses.
 
 - <https://www.tensorflow.org/>
 - <https://pytorch.org/>
+- <https://scikit-learn.org/stable/index.html#>
 - <https://flowiseai.com/>
 - <https://n8n.io/>
 - <https://ollama.com/>
 - <https://github.com/google-gemini/gemini-cli>
 - <https://jules.google.com/>
+- <https://www.kaggle.com/>
