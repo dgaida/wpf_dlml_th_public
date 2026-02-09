@@ -13,6 +13,8 @@ Sammlung weiterer Materialien zu den Themen des Moduls.
 - **Géron, Aurélien** (2022): *Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow*, O'Reilly Media, Inc..
 - **Frochte, Jörg** (2020): *Maschinelles Lernen: Grundlagen und Algorithmen in Python*, Carl Hanser Verlag GmbH Co KG.
 - **LeCun, Yann and Bengio, Yoshua and Hinton, Geoffrey** (2015): *Deep learning*, Nature Publishing Group UK London.
+- **Alammar, Jay and Grootendorst, Maarten** (2024): *Hands-on large language models: language understanding and generation*, O'Reilly Media, Inc..
+- **Situnayake, Daniel and Plunkett, Jenny** (2023): *AI at the Edge*, O'Reilly Media, Inc..
 - **Russell, Stuart Jonathan and Norvig, Peter** (2012): *K{\"u}nstliche Intelligenz: Ein moderner Ansatz*, Pearson Deutschland GmbH.
 
 ## MOOCs
@@ -38,10 +40,14 @@ Massive Open Online Courses.
 
 - <https://www.tensorflow.org/>
 - <https://pytorch.org/>
-- <https://scikit-learn.org/stable/index.html#>
+- <https://scikit-learn.org/stable/index.html>
+- <https://github.com/jupyterlab/jupyterlab>
+- <https://www.anaconda.com/>
 - <https://flowiseai.com/>
 - <https://n8n.io/>
 - <https://ollama.com/>
 - <https://github.com/google-gemini/gemini-cli>
 - <https://jules.google.com/>
 - <https://www.kaggle.com/>
+- <https://elevenlabs.io/>
+- <https://alexlenail.me/NN-SVG/LeNet.html>
