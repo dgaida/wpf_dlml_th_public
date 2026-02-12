@@ -34,6 +34,9 @@ Massive Open Online Courses.
 - [Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - [Official code repository for the book Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
 - [Stanford CS336 Language Modeling from Scratch I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- [Stanford CS230 | Autumn 2025](https://www.youtube.com/watch?v=DNCn1BpCAUY)
+- [Introduction to Edge AI](https://www.youtube.com/playlist?list=PL7VEa1KauMQppUExiIOfxxk\_2ta94EEpd)
 - <https://www.stateof.ai/>
 
 ## Tools
@@ -51,3 +54,4 @@ Massive Open Online Courses.
 - <https://www.kaggle.com/>
 - <https://elevenlabs.io/>
 - <https://alexlenail.me/NN-SVG/LeNet.html>
+- <https://github.com/lutzroeder/netron>
