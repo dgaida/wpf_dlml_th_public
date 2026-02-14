@@ -35,6 +35,7 @@ Massive Open Online Courses.
 - [Official code repository for the book Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
 - [Stanford CS336 Language Modeling from Scratch I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- [MIT Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
 - [Stanford CS230 | Autumn 2025](https://www.youtube.com/watch?v=DNCn1BpCAUY)
 - [Introduction to Edge AI](https://www.youtube.com/playlist?list=PL7VEa1KauMQppUExiIOfxxk\_2ta94EEpd)
 - <https://www.stateof.ai/>
