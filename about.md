@@ -42,6 +42,4 @@ Für die Durchführung der praktischen Übungen wird empfohlen, Google Colab zu 
 
 ## Prüfungsleistung
 
-Die Prüfungsleistung besteht aus einer Klausur am Ende des Semesters. Weitere Details zu Klausurterminen und zugelassenen Hilfsmitteln finden Sie auf der Seite [Klausuren](klausuren.md).
-
-Die Klausur prüft sowohl theoretisches Verständnis als auch die Fähigkeit, praktische Machine Learning Probleme zu lösen und zu analysieren.
+Informationen zur Prüfungsleistung finden Sie in den Vorlesungsunterlagen auf der Seite [Vorlesungen und Übungen](vorlesungen-uebungen.md).
