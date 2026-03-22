@@ -30,6 +30,8 @@ Die Studierenden können Machine Learning (inkl. Deep Learning) Projekte praktis
 
 - **Die mit verschiedenen Modellen erzielten Ergebnisse visualisieren und vergleichen** (bspw. durch Nutzung von TensorBoard und weights & biases) und Strategien anwenden können, um die erzielten Ergebnisse systematisch zu verbessern (bspw. durch Hyperparameteroptimierung wie https://optuna.org/)
 
+- Die Lösung bezüglich **Aspekte der Safety und Security, ethischen Überlegungen und der Erklärbarkeit** bewerten und überarbeiten können
+
 - **Die Ergebnisse bewerten und analysieren können** und Entscheidungsträgern die Ergebnisse präsentieren können
 
 Diese Kompetenzen befähigen die Studierenden dazu, später Machine Learning/Deep Learning Projekte selbstständig zu formulieren und umsetzen zu können.
