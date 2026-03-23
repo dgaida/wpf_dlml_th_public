@@ -12,4 +12,4 @@ title: Woche 5 - Neuronale Netze und Deep Learning Part 1
 
   : **Materialien:**
   : **Code:**
-    - [📁 week 05](/wpf_dlml_th_public/assets/exercises/week_05)
+    - [📁 week 05](https://github.com/dgaida/wpf_dlml_th_public/tree/main/assets/exercises/week_05)
