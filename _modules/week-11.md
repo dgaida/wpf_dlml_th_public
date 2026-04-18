@@ -10,3 +10,6 @@ title: Woche 11 - Data Augmentation & mehr
 : **Übung**{: .label .label-blue }[Data Augmentation, Objektdetektion und -segmentierung](#)
   : Raum 0.503, 11:00-12:00
 
+  : **Materialien:**
+  : **Code:**
+    - [📓 objektdetektion yolo26](/wpf_dlml_th_public/assets/exercises/11_objektdetektion_yolo26.ipynb)
