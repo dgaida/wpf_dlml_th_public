@@ -35,3 +35,24 @@ schedule:
   - name: Thursday
   - name: Friday
 ---
+
+## Kalender abonnieren
+
+Statt die Datei manuell herunterzuladen, können Sie den Kalender auch abonnieren. Dadurch werden Änderungen am Zeitplan automatisch in Ihren Kalender übernommen.
+
+Kopieren Sie dazu den folgenden Link:
+`https://raw.githubusercontent.com/dgaida/wpf_dlml_th_public/main/assets/wpf_dlml_zeitplan.ics`
+
+### Anleitung für Outlook (Web)
+1. Öffnen Sie Ihren Outlook-Kalender.
+2. Klicken Sie auf **Kalender hinzufügen**.
+3. Wählen Sie **Aus dem Web abonnieren**.
+4. Fügen Sie die oben kopierte URL ein und vergeben Sie einen Namen.
+5. Klicken Sie auf **Importieren**.
+
+### Anleitung für Google Calendar
+1. Öffnen Sie Google Calendar.
+2. Klicken Sie neben "Weitere Kalender" auf das **+** Symbol.
+3. Wählen Sie **Per URL**.
+4. Fügen Sie die oben kopierte URL ein.
+5. Klicken Sie auf **Kalender hinzufügen**.
