@@ -15,15 +15,11 @@ Auf dieser Seite finden Sie alle Informationen zur Prüfungsleistung für das Mo
 
 ## Alte Klausuren
 
-In diesem Abschnitt finden Sie Klausuren aus vergangenen Semestern zur Vorbereitung.
-
 - *Noch keine alten Klausuren hochgeladen.*  
 
 ## Aufgabensammlung
 
-Hier finden Sie Sammlungen von Übungsaufgaben, die zur Vertiefung des Stoffes und zur Klausurvorbereitung dienen.
-
-- *Noch keine Aufgabensammlungen hochgeladen.*  
+- [📄 DLML Aufgabensammlung](/wpf_dlml_th_public/assets/tasks/DLML_Aufgabensammlung.pdf)  
 
 ---
 
