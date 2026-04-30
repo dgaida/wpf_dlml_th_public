@@ -32,6 +32,11 @@ schedule:
         end: 12:00 PM
         location: 0.503 Campus Gummersbach
         class: section
+      - name: Lecture
+        start: 9:15 AM
+        end: 11:00 AM
+        location: 0.503 Campus Gummersbach
+        class: lecture
   - name: Thursday
   - name: Friday
 ---

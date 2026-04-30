@@ -23,7 +23,7 @@ Massive Open Online Courses.
 
 - <https://www.deeplearning.ai/courses/> — Die Webseite https://www.deeplearning.ai/courses/ bietet Kurse zum Aufbau und Vertiefen von KI-Fachkenntnissen an, darunter einen neuen Kurs zu „Spec-Driven Development with Coding Agents“, geleitet von Experten der Branche.
 - <https://www.coursera.org/specializations/deep-learning> — Die Deep-Learning-Spezialisierung auf Coursera, angeboten von Andrew Ng und DeepLearning.AI, vermittelt in einem fünfkursigen Programm fortgeschritt
-- <https://www.datacamp.com/>
+- <https://www.datacamp.com/> — DataCamp ist eine Plattform, die Online-Kurse in Data Science, Künstlicher Intelligenz und verwandten Themen wie Python, R, SQL sowie Data Engineering und Data Analysis anbietet.
 - <https://www.edx.org/> — edX ist eine Online-Bildungsplattform, die Kurse, Zertifikate und Abschlüsse führender Universitäten zu Themen wie Künstliche Intelligenz, Nachhaltigkeit und Wirtschaft bietet und aktuell bis zum 21. April 2026 einen 10%-Rabatt mit dem Code FRESH2026 für eine neue Lernrunde anbietet.
 
 ## Webseiten
