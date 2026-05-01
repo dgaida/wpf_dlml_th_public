@@ -11,5 +11,5 @@ title: Woche 6 - Deep Learning Part 2 & mehr
   : Raum 0.503, 11:00-12:00
 
   : **Materialien:**
-  : **Code:**  
-    - [📁 week 06](https://github.com/dgaida/wpf_dlml_th_public/tree/main/assets/exercises/week_06)  
+  : **Code:**
+    - [📁 week 06](https://github.com/dgaida/wpf_dlml_th_public/tree/main/assets/exercises/week_06)
