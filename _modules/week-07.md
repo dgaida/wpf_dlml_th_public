@@ -11,5 +11,5 @@ title: Woche 7 - Rekurrente neuronale Netze & mehr
   : Raum 0.503, 11:00-12:00
 
   : **Materialien:**
-  : **Code:**  
-    - [📁 week 07](https://github.com/dgaida/wpf_dlml_th_public/tree/main/assets/exercises/week_07)  
+  : **Code:**
+    - [📁 week 07](https://github.com/dgaida/wpf_dlml_th_public/tree/main/assets/exercises/week_07)
