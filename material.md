@@ -21,10 +21,10 @@ Sammlung weiterer Materialien zu den Themen des Moduls.
 
 Massive Open Online Courses.
 
-- <https://www.deeplearning.ai/courses/>   — Die Webseite https://www.deeplearning.ai/courses/ bietet Kurse zum Aufbau und Vertiefen von KI-Fachkenntnissen an, darunter einen neuen Kurs zu „Spec-Driven Development with Coding Agents“, geleitet von Experten der Branche.
-- <https://www.coursera.org/specializations/deep-learning>   — Die Deep-Learning-Spezialisierung auf Coursera, angeboten von Andrew Ng und DeepLearning.AI, vermittelt in einem fünfkursigen Programm fortgeschritt
-- <https://www.datacamp.com/>   — DataCamp ist eine Plattform, die Online-Kurse in Data Science, Künstlicher Intelligenz und verwandten Themen wie Python, R, SQL sowie Data Engineering und Data Analysis anbietet.
-- <https://www.edx.org/>   — edX ist eine Online-Bildungsplattform, die Kurse, Zertifikate und Abschlüsse führender Universitäten zu Themen wie Künstliche Intelligenz, Nachhaltigkeit und Wirtschaft bietet und aktuell bis zum 21. April 2026 einen 10%-Rabatt mit dem Code FRESH2026 für eine neue Lernrunde anbietet.
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)   — Die Deep-Learning-Spezialisierung auf Coursera, angeboten von Andrew Ng und DeepLearning.AI, vermittelt in einem fünfkursigen Programm fortgeschritt
+- [DeepLearning.AI](https://www.deeplearning.ai/)  
+- [DataCamp](https://www.datacamp.com/)   — DataCamp ist eine Plattform, die Online-Kurse in Data Science, Künstlicher Intelligenz und verwandten Themen wie Python, R, SQL sowie Data Engineering und Data Analysis anbietet.
+- [edX](https://www.edx.org/)   — edX ist eine Online-Bildungsplattform, die Kurse, Zertifikate und Abschlüsse führender Universitäten zu Themen wie Künstliche Intelligenz, Nachhaltigkeit und Wirtschaft bietet und aktuell bis zum 21. April 2026 einen 10%-Rabatt mit dem Code FRESH2026 für eine neue Lernrunde anbietet.
 
 ## Webseiten
 
@@ -43,17 +43,16 @@ Massive Open Online Courses.
 
 ## Tools
 
-- <https://www.tensorflow.org/>   — TensorFlow ist eine umfassende, end-to-end-Plattform für maschinelles Lernen, die umfangreiche Ressourcen zur Modellentwicklung, Libraries wie TensorFlow.js und TensorFlow Lite, sowie Tutorials, API-Dokumentationen und Community-Unterstützung bietet.
-- <https://pytorch.org/>   — Die offizielle Webseite von PyTorch, einem Open-Source-Maschinenlern-Framework, bietet umfassende Lernressourcen, Community-Unterstützung, Projektinformationen, Dokumentation, Blog-Updates zu Konferenzen und Technologieentwicklungen sowie Einblicke in aktuelle Forschungsarbeiten und Veranstaltungen wie die PyTorch Conference.
-- <https://scikit-learn.org/stable/index.html>   — Die Webseite stellt die offene Python-Bibliothek
-- <https://github.com/jupyterlab/jupyterlab>  
-- <https://www.anaconda.com/>   — Anaconda bietet eine offene Plattform für die Entwicklung und Bereitstellung von KI-Lösungen mit Python-Paketverwaltung, sicheren Entwicklungs- und Collaboration-Tools sowie Governance-Funktionen für Unternehmen.
-- <https://flowiseai.com/>   — Flowise ist eine open-source-Plattform zur visuellen Entwicklung von KI-Agenten mit modularen Bausteinen, die sowohl Cloud- als auch On-Premises-Bereitstellungen unterstützen und von Teams weltweit genutzt werden.
-- <https://n8n.io/>   — n8n ist eine Workflow-Automatisierungsplattform mit KI-Funktionen, die Geschäftsprozesse durch über 8500 Vorlagen, 500+ Integrationen und die Möglichkeit der visuellen
-- <https://ollama.com/>   — Ollama ist eine Plattform für die einfache Bereitstellung und Skalierung von Open-Source-KI-Modellen mit Cloud-Unterstützung, verschiedenen Abonnements und Fokus auf Datenprivatsphäre.
-- <https://github.com/google-gemini/gemini-cli>   — Die Webseite beschreibt ein Open-Source-AI-Agent auf GitHub, das die Fähigkeiten von Google Gemini direkt in die Terminalumgebung integriert.
-- <https://jules.google.com/>  
-- <https://www.kaggle.com/>   — Kaggle ist eine Plattform für Data Science und künstliche Intelligenz
-- <https://elevenlabs.io/>  
-- <https://alexlenail.me/NN-SVG/LeNet.html>   — Die Webseite ermöglicht die anpassbare Darstellung und SVG-Download von publikationsreifen LeNet-Neural-Network-Architektur-Skizzen mit individuellen Gestaltungsoptionen wie Farbschemen, Filter-Opacity, Abständen und Beschriftungen.
-- <https://github.com/lutzroeder/netron>   — Netron ist ein Open-Source-Visualisierer für neuronale Netzwerke, Deep-Learning- und maschinelles Lernmodell, entwickelt von Lutz Roeder und als GitHub-Repository gehostet.
+- [TensorFlow](https://www.tensorflow.org/)   — TensorFlow ist eine umfassende, end-to-end-Plattform für maschinelles Lernen, die umfangreiche Ressourcen zur Modellentwicklung, Libraries wie TensorFlow.js und TensorFlow Lite, sowie Tutorials, API-Dokumentationen und Community-Unterstützung bietet.
+- [PyTorch](https://pytorch.org/)   — Die offizielle Webseite von PyTorch, einem Open-Source-Maschinenlern-Framework, bietet umfassende Lernressourcen, Community-Unterstützung, Projektinformationen, Dokumentation, Blog-Updates zu Konferenzen und Technologieentwicklungen sowie Einblicke in aktuelle Forschungsarbeiten und Veranstaltungen wie die PyTorch Conference.
+- [Scikit-Learn](https://scikit-learn.org/)   — Die Webseite stellt die Dokumentation für die Python-Bibliothek scikit-learn (Version 0.16.1) bereit, die maschinelles Lernen in Python ermöglicht.
+- [Jupyter](https://jupyter.org/)   — Jupyter.org stellt eine Open-Source-Plattform mit Web-basierten Tools wie JupyterLab und Jupyter Notebook bereit, die interaktive Programmierung, Datenanalyse und wissenschaftliche Rechnung in über 40 Programmiersprachen ermöglichen.
+- [Anaconda](https://www.anaconda.com/)   — Anaconda bietet eine offene Plattform für die Entwicklung und Bereitstellung von KI-Lösungen mit Python-Paketverwaltung, sicheren Entwicklungs- und Collaboration-Tools sowie Governance-Funktionen für Unternehmen.
+- [FlowiseAI](https://flowiseai.com/)   — Flowise ist eine open-source-Plattform zur visuellen Entwicklung von KI-Agenten mit modularen Bausteinen, die sowohl Cloud- als auch On-Premises-Bereitstellungen unterstützen und von Teams weltweit genutzt werden.
+- [n8n](https://n8n.io/)   — n8n ist eine Workflow-Automatisierungsplattform mit KI-Funktionen, die Geschäftsprozesse durch über 8500 Vorlagen, 500+ Integrationen und die Möglichkeit der visuellen
+- [Ollama](https://ollama.com/)   — Ollama ist eine Plattform für die einfache Bereitstellung und Skalierung von Open-Source-KI-Modellen mit Cloud-Unterstützung, verschiedenen Abonnements und Fokus auf Datenprivatsphäre.
+- [Google Gemini](https://ai.google.dev/)   — Die Webseite ai.google.dev stellt Entwicklern Zugang zu KI-Modellen wie Gemini, Imagen und Veo, Open-Source-Modellen wie Gemma sowie Dokumentationen, API-Referenzen und Tools für die Anwendungsentwicklung bereit.
+- [Kaggle](https://www.kaggle.com/)   — Kaggle ist eine Plattform für Data Science und künstliche Intelligenz
+- [ElevenLabs](https://elevenlabs.io/)  
+- [NN-SVG](https://alexlenail.me/NN-SVG/)   — Die Webseite NN-SVG bietet die Erstellung und Download von SVG-basierten, publikationsbereiten Schemata neuronaler Netzwerkarchitekturen mit anpassbaren Stilen (z. B. FCNN, LeNet, AlexNet) und detaillierten Einstellungen für Kantenbreite, Farbe, Transparenz, Knotendurchmesser, Farben und Layoutrichtung.
+- [Netron](https://netron.app/)   — Netron ist ein Online-Tool zur Visualisierung und Analyse von maschinellem Lernen, das Modelle wie ONNX oder TensorFlow öffnen, Funktionen wie "add" oder "multiply" darstellen und von Lutz Roeder entwickelt wurde.
