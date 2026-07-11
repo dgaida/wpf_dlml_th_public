@@ -11,6 +11,6 @@ title: Woche 12 - KI-Security und -Safety & mehr
   : Raum 0.503, 11:00-12:00
 
   : **Materialien:**
-  : **Code:**  
+  : **Code:**
     - [📓 gemma4 llamacpp](https://colab.research.google.com/github/dgaida/wpf_dlml_th_public/blob/main/assets/exercises/12_gemma4_llamacpp.ipynb)  
     - [📁 week 12](https://github.com/dgaida/wpf_dlml_th_public/tree/main/assets/exercises/week_12)  
