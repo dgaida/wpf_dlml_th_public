@@ -11,5 +11,5 @@ title: Woche 11 - Trainingsstrategien (Strategy for DL Troubleshooting)
   : Raum 0.503, 11:00-12:00
 
   : **Materialien:**
-  : **Code:**
+  : **Code:**  
     - [📁 week 11](https://github.com/dgaida/wpf_dlml_th_public/tree/main/assets/exercises/week_11)  
