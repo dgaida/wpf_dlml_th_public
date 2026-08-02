@@ -10,6 +10,6 @@ title: Woche 13 - Fairness & mehr
 : **Übung**{: .label .label-blue }[Fairness, KI-Ethik und KI-Recht](#)
   : Raum 0.503, 11:00-12:00
 
-  : **Materialien:**
+  : **Materialien:**  
     - [📄 KI-Ethik](/wpf_dlml_th_public/assets/slides/13_KI-Ethik.pdf)  
     - [📄 KI-Ethik animated](/wpf_dlml_th_public/assets/slides/13_KI-Ethik_animated.pdf)  
