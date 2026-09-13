@@ -1,5 +1,5 @@
 ---
-title: Woche 4 - Machine Learning Projekt von A-Z Part 2
+title: "Woche 4 - Machine Learning Projekt von A-Z Part 2"
 ---
 
 13.05.
