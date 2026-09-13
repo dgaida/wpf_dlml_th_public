@@ -38,13 +38,15 @@ Massive Open Online Courses.
 - [MIT Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)  
 - [Stanford CS230 - Autumn 2025](https://www.youtube.com/watch?v=DNCn1BpCAUY)   — Die Webseite ist ein YouTube-Videoseitenlayout für das NFL Sunday Ticket, das standardmäßige YouTube-Links wie „About“, „Press“, „Impressum“ sowie das Copyright von Google LLC 2026 umfasst.  
 - [Introduction to Edge AI](https://www.youtube.com/playlist?list=PL7VEa1KauMQppUExiIOfxxk\_2ta94EEpd)  
-- [Plattform Lernende Systeme: Eine kurze Geschichte der KI](https://www.youtube.com/watch?v=09LotPHTZtU)   — Eine hilfreiche Ressource zum Thema Deep Learning.
+- [Plattform Lernende Systeme: Eine kurze Geschichte der KI](https://www.youtube.com/watch?v=09LotPHTZtU)   — Die Seite ist ein YouTube‑Video‑Aufruf (Video‑ID 09LotPHTZtU) mit den typischen Footer‑Links zu Unternehmens‑ und Rechtsinformationen von Google/YouTube. 
+
+Begründung: Die URL führt zu einem einzelnen YouTube‑Video, und der angegebene Inhalt listet die üblichen Footer‑Elemente von YouTube auf – „About“, „Press“, „Copyright“, „Contact us“, „Creators“, „Advertise“, „Developers“, „Terms“, „Privacy“, „Policy & Safety“, „How YouTube works“, „Test new features“, „NFL Sunday Ticket“ sowie das Copyright‑Vermerk „© 2026 Google LLC“. Diese Elemente kennzeichnen die standardmäßige Informations‑ und Rechtssektion einer YouTube‑Seite.
 - <https://www.stateof.ai/>   — Die Webseite https://www.stateof.ai/ stellt den State of AI Report 2025 vor, einen jährlich erscheinenden, umfassenden Bericht über die wichtigsten Entwicklungen in der Künstlichen Intelligenz, der von führenden Akteuren in Industrie und Forschung überprüft wird und sich mit Forschung, Industrie, Politik, Sicherheit sowie einer großen Umfrage unter 1.200 AI-Praktikern beschäftigt.
 - <https://www.aihero.dev/>   — Die Webseite aihero.dev bietet eine praxisnahe Weiterbildung für Entwickler, die sich von Anfängern zum AI-Expert:innen weiterentwickeln möchten, mit Fokus auf Themen wie Prompt-Engineering, RAG und Agenten sowie einem Crash-Kurs zum AI SDK v6.
 - <https://www.i-am.ai/index.html>   — 0.007863180711865425
-- <https://developers.google.com/machine-learning/crash-course?hl=de>   — Die Webseite bietet einen kostenlosen Crashkurs zu Machine Learning von Google, der eine Einführung in grundlegende Konzepte, Modelle und praktische Anwendungen des maschinellen Lernens bietet.
-- <https://developers.google.com/machine-learning/advanced-courses?hl=de>   — Die Seite präsentiert Googles Sammlung fortgeschrittener Machine‑Learning‑Kurse, die Tools und Techniken zu Themen wie Entscheidungsbäumen, Empfehlungssystemen, Clustering und Generative Adversarial Networks vorstellen.
-- <https://aegeorge42.github.io/>   — Die angegebene Webseite enthält ein interaktives Lehrbuch zu neuen Netzwerken auf Grundlage von Python und TensorFlow für Anfänger, das dabei hilft, die Grundlagen von Neuralen Netzwerken zu verstehen und zu programmieren.
+- <https://developers.google.com/machine-learning/crash-course?hl=de>  
+- <https://developers.google.com/machine-learning/advanced-courses?hl=de>   — Eine hilfreiche Ressource zum Thema Deep Learning.
+- <https://aegeorge42.github.io/>   — Eine hilfreiche Ressource zum Thema Deep Learning.
 
 ## Tools
 
